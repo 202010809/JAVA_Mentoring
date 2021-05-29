@@ -9,7 +9,6 @@ class Point {
     protected void move(int x, int y) { this.x =x; this.y = y; }
 }
 
-//[1번]
 class ColorPoint extends Point {
     String color;
     //기본생성자
